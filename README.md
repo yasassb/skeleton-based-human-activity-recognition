@@ -1,8 +1,6 @@
 # 🔍 Human Activity Recognition from Video Data
 
 <div align="center">
-  
-![Activity Recognition Demo](https://raw.githubusercontent.com/user/repo/main/demo.gif)
 
 *An advanced system for recognizing human activities in video data through skeleton-based analysis*
 
