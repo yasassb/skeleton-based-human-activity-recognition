@@ -1,0 +1,8 @@
+td-hm_hrnet-w48_8xb32-210e_coco-256x192-0e67c616_20220913.pth
+td-hm_hrnet-w48_8xb32-210e_coco-256x192.py
+.DS_Store
+Human_Activity_Recognition_Video_Dataset/
+
+__pycache__
+
+*.mp4

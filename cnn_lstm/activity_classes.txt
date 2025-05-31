@@ -1,0 +1,8 @@
+{
+    "0": "Clapping",
+    "1": "Sitting",
+    "2": "Standing Still",
+    "3": "Walking",
+    "4": "Walking While Reading Book",
+    "5": "Walking While Using Phone"
+}
